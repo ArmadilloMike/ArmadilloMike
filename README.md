@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ArmadilloMike
-- 👀 I’m interested in Minecraft
-- 🌱 I’m currently learning Some Python
-- 💞️ I’m looking to collaborate on Minecraft mods
+- 👀 I’m interested something
+- 🌱 I’m currently learning at school
+- 💞️ I’m looking to collaborate whatever
 - 📫 How to reach me github@armadillomike.dev
-- 😄 Pronouns: He/Hime
-- ⚡ Fun fact: I am partially blind (i wear glasses)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: i have no fun facts
 
 <!---
 ArmadilloMike/ArmadilloMike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
