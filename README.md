@@ -18,3 +18,7 @@ I am teen developer. I can code. I am part of [Hackclub](https://hacklcub.com)
 - Python 
 - Java 
 - Web Development (HTML, CSS, JS) 
+
+## data
+
+![](https://github-readme-stats.hackclub.dev/api/wakatime?username=595&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
